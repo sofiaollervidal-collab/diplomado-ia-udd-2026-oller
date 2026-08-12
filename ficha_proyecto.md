@@ -1,10 +1,11 @@
-# Ficha de proyecto — [nombre de tu proyecto]
+# Ficha de proyecto — Aplicación Compliance UX 2026
 
 *Documento vivo. Se completa clase a clase — es tu model card en versión de borrador. Súbelo a tu repo como `docs/ficha_proyecto.md`.*
 
 ## 1. Nombre interno del proyecto
 
-Aplicación Compliance UX 2026
+Aplicación Compliance UX 2026 
+Oller - Ramirez
 
 
 ## 2. Problema (2-3 frases)
