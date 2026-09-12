@@ -32,7 +32,6 @@
 **Aprendizaje en clases:**
 **Aprendizaje de trabajo:**
 
-*(Clase 30 — no se hace, se salta del roadmap.)*
 
 ## Clase 31
 **Aprendizaje en clases:** el patrón Loop (Research → Plan → Execute → Verify → Fix) y que un agente bien diseñado pide aprobación en los cambios grandes (el plan), pero itera solo en los chicos.
