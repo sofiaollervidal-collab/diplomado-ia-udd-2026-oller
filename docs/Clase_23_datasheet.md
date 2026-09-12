@@ -1,11 +1,11 @@
-# Datasheet — Compliance UX AFP Cuprum: Extracción Capítulo XII (Distribución de saldos y traspasos futuros)
+# Datasheet — Compliance UX: Extracción Capítulo XII (Distribución de saldos y traspasos futuros)
 
 *Documento vivo. Se completa clase a clase.*
 *Completado en Clase 23 (Diplomado IA Aplicada al Diseño, UDD 2026) a partir del trabajo previo de la Clase 25.*
 
 ## 1. Motivación
 
-- **¿Para qué usarás este dataset en tu proyecto?** Como insumo estructurado para diseñar y documentar los flujos de UX de "distribución de saldos y traspasos futuros" del proyecto Compliance UX (AFP Cuprum): alimenta la matriz de reglas de negocio (tipo de cuenta × tipo de cliente × habilitación × casuística) que sirve de base al **Regulatory Tagging Engine** (vincular componentes de interfaz con artículos normativos) y al **Legal-to-UX Copy Adapter** (traducir cláusulas legales en microcopy).
+- **¿Para qué usarás este dataset en tu proyecto?** Como insumo estructurado para diseñar y documentar los flujos de UX de "distribución de saldos y traspasos futuros" del proyecto Compliance UX: alimenta la matriz de reglas de negocio (tipo de cuenta × tipo de cliente × habilitación × casuística) que sirve de base al **Regulatory Tagging Engine** (vincular componentes de interfaz con artículos normativos) y al **Legal-to-UX Copy Adapter** (traducir cláusulas legales en microcopy).
 - **¿Quién lo creó originalmente?** El texto fuente (Capítulo XII del Compendio de Normas del Sistema de Pensiones) fue emitido por la **Superintendencia de Pensiones** de Chile — es normativa pública, no un dataset creado por mí. La versión "dataset" (la extracción tabular estructurada: cuenta / tipo cliente / habilitación / casuística / cita) es una derivación propia, construida en la Clase 25 con apoyo de tres LLMs (Claude, ChatGPT, DeepSeek) a partir de ese capítulo.
 
 ## 2. Composición
